@@ -17,6 +17,7 @@ public class Arbol {
         if (actual == null || actual.valor == valor) {
             return actual;
         }
+        
         if (valor < actual.valor) {
             return buscarNodoRecursivo(actual.izquierdo, valor);
         } else {
