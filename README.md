@@ -38,6 +38,7 @@ Cada carpeta o archivo `.ipynb` contiene el código y explicación detallada en 
 
 ## 🧠 Herramientas Utilizadas
 
+- Java
 - Python / Jupyter Notebook
 - Scikit-learn
 - Matplotlib / Seaborn
